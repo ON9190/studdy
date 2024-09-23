@@ -1,6 +1,11 @@
 h1{
+   padding-top: 15px;
    text-align: center;
    color: #6528F7
+}
+h2{
+   
+   vertical-align: bottom;
 }
 
 body{
@@ -8,7 +13,7 @@ body{
    color: #6528F7;
 }
 
-text{
+.text{
 padding-left: 30px;
-font-size: 20;
+font-size: 20px;
 }
