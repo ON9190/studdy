@@ -1,8 +1,14 @@
 h1{
    text-align: center;
-   color: #5C2483
+   color: #6528F7
 }
+
 body{
-   background-color:#AF91C9;
-   color: #5C2483;
+   background-color:#EDE4FF;
+   color: #6528F7;
+}
+
+text{
+padding-left: 30px;
+font-size: 20;
 }
